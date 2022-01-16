@@ -1,4 +1,4 @@
-## Willkommen zur Stammi-App
+## Willkommen zur Stammi-App!
 
 Wenn du Hilfe benötigst, wende dich an: frappho@gmail.com
 
